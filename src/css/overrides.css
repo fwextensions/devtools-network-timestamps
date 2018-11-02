@@ -1,0 +1,43 @@
+body {
+	font-size: .8rem;
+	line-height: 1.3;
+	overflow: hidden;
+}
+
+label {
+	margin-bottom: 0;
+}
+
+.pull-right {
+	float: right !important;
+}
+
+.react-grid-Grid {
+	min-height: calc( 100vh - 56px ) !important;
+}
+
+.segmented-control {
+	transition: none !important;
+	margin: 0 1.5em 0 0 !important;
+}
+
+.segmented-control label {
+	line-height: 2em !important;
+	transition: none !important;
+}
+
+.header {
+	padding: 1em;
+}
+
+.copy-button {
+	vertical-align: top;
+	padding: .25em 1em .35em 1em;
+}
+
+.timestamp {
+	color: #aaa;
+	line-height: 27px;
+	float: right;
+	display: inline-block;
+}
