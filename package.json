@@ -39,6 +39,7 @@
     "chrome-promise": "^3.0.2",
     "date-fns": "^1.29.0",
     "react": "^16.4.1",
-    "react-dom": "^16.4.1"
+    "react-dom": "^16.4.1",
+    "styled-components": "^4.0.3"
   }
 }
